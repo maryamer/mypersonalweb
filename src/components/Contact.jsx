@@ -13,10 +13,12 @@ export default function Contact({ myEmail, myLocation, myPhoneNum }) {
           <div className="section-title">
             <h2>Contact</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              If you have any questions about my services or would like to
+              schedule a consultation, please don't hesitate to contact me. You
+              can reach me through the contact form on my website or by email at
+              meryemebrehimi@gmail.com. I strive to provide personalized and
+              professional services to all of my clients and look forward to
+              discussing how I can help you achieve your goals.
             </p>
           </div>
 
