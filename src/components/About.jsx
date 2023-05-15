@@ -22,7 +22,7 @@ export default function About({ myEmail, myLocation, myPhoneNum }) {
               />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>UI/UX Designer &amp; Front-end Web Developer.</h3>
+              <h3> Front-end Web Developer.</h3>
 
               <div className="row">
                 <div className="col-lg-6">
@@ -68,10 +68,11 @@ export default function About({ myEmail, myLocation, myPhoneNum }) {
               </div>
               <p className="fst-italic">
                 Passionate and motivated front-end developer with a strong
-                background in HTML, CSS, JavaScript, React.js, and Bootstrap.
-                Experience using JQuery and proficient in Turkish and Persian
-                language. Seeking to gain work experience and develop further as
-                a front-end developer.
+                background in HTML, CSS, JavaScript,Bootstrap and React.js. In
+                addition familiar with Fetch API,Context API,Redux. Experience
+                using JQuery and proficient in Turkish and Persian language.
+                Seeking to gain work experience and develop further as a
+                front-end developer.
               </p>
             </div>
           </div>
