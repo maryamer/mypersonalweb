@@ -11,12 +11,7 @@ export default function Skills() {
         <div className="container">
           <div className="section-title">
             <h2>Skills</h2>
-            <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
-            </p>
+            <p></p>
           </div>
 
           <div className="row skills-content">
@@ -37,8 +32,8 @@ export default function Skills() {
 
               <div className="progress">
                 <span className="skill">
-                  JavaScript <i className="val">75%</i>
-                  <ProgressBarExample valueOfProgressBar="75" />
+                  JavaScript <i className="val">85%</i>
+                  <ProgressBarExample valueOfProgressBar="85" />
                 </span>
               </div>
             </div>
@@ -46,21 +41,21 @@ export default function Skills() {
             <div className="col-lg-6" data-aos-delay="100%">
               <div className="progress">
                 <span className="skill">
-                  PHP <i className="val">80%</i>
-                  <ProgressBarExample valueOfProgressBar="80" />
+                  React js <i className="val">85%</i>
+                  <ProgressBarExample valueOfProgressBar="85" />
                 </span>
               </div>
 
               <div className="progress">
                 <span className="skill">
-                  WordPress/CMS <i className="val">90%</i>
+                  bootstrap <i className="val">90%</i>
                   <ProgressBarExample valueOfProgressBar="90" />
                 </span>
               </div>
 
               <div className="progress">
                 <span className="skill">
-                  Photoshop <i className="val">55%</i>
+                  Tailwind CSS <i className="val">55%</i>
                   <ProgressBarExample valueOfProgressBar="55" />
                 </span>
               </div>
