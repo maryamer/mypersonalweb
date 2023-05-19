@@ -69,8 +69,8 @@ export default function About({ myEmail, myLocation, myPhoneNum }) {
               <p className="fst-italic">
                 Passionate and motivated front-end developer with a strong
                 background in HTML, CSS, JavaScript,Bootstrap and React.js. In
-                addition familiar with Data Fetching, Context API, Redux. Experience
-                using JQuery and proficient in Turkish and Persian language.
+                addition familiar with Data Fetching, Context API, Redux.
+                Experienced in using JQuery and proficient in Turkish and Persian language.
                 Seeking to gain work experience and develop further as a
                 front-end developer.
               </p>
